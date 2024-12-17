@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Electronics & Communication Engineering, College of Engineering Trivandrum"
+title                    : #"Electronics & Communication Engineering, College of Engineering Trivandrum"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Electronics & Communication Engineering, College of Engineering Trivandrum"
+name                     : #"Electronics & Communication Engineering, College of Engineering Trivandrum"
 description              : #"An amazing website."
 url                      : https://github.com/ece-cet # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
