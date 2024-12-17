@@ -3,7 +3,13 @@ main:
   - title: "About"
     url: /about/
   - title: "Academics"
-    url: /academics/
+    sublinks:
+    - title: B.Tech.
+        url: /btech-programme/
+    - title: M.Tech.
+        url: /mtech-programme/
+    - title: PhD
+        url: /phd-programme/
   - title: "Facilities"
     url: /facilities/
   - title: "People"
